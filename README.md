@@ -1,2 +1,2 @@
 # PetLife
-Site instiutcional (fictício) da clínica veterinária PetLife.
+Site Institucional (fictício) da clínica veterinária PetLife.
